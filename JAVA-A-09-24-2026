@@ -80,3 +80,121 @@ System.out.print();
 
 //while loops
 System.out.println("\nCounting down from 5 with a while loop")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// INTRO CARD
+import java.util.Scanner;
+
+public class Main{
+        public static void main(String[]args){
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("What is your name? ");
+        String name = scanner.nextline();
+
+        System out.print("What is your age? ")
+        int age =Interger.parseInt(scanner.nextLine());
+
+        System.out.println("\n-------INTRO CARD-------");
+        System.out.println("Name: "+name);
+        System.out.println("Age: "+age);
+        System.out.println("In 5 years, " +name+ "will be" +(age + 5) +" year old.");
+
+        }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
